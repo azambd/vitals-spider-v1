@@ -1,1 +1,1 @@
-# vitals.com [http://vitals.com] Spider Version 1
+# vitals.com [ http://vitals.com ] Spider Version 1
