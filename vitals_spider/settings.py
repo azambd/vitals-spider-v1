@@ -82,12 +82,13 @@ FEED_EXPORTERS = {
 FIELDS_TO_EXPORT = [	
 					'name',
 					'gender',
-					'speciality',
+					'speciality_list',
 					'practice_name',
 					'completion_description',
                     'completion_year',
                     'edu_name',
                     'edu_type',
+                    'location_name',
                     'street_address',
                     'city',
                     'state',
@@ -101,7 +102,7 @@ FIELDS_TO_EXPORT = [
 
 FEED_FORMAT = 'csv'
 
-FEED_URI = "export/vitals_{0}.csv".format(timestmp) # WHERE to store the export file
+FEED_URI = "export/vitals_docList_{0}.csv".format(timestmp) # WHERE to store the export file
 
 
 # Enable and configure the AutoThrottle extension (disabled by default)

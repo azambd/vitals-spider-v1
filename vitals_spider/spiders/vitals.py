@@ -10,7 +10,7 @@ from ..items import VitalsSpiderItem
 class VitalsSpider(CrawlSpider):
     name = 'vitals'
     allowed_domains = ['vitals.com']
-    start_urls = ['https://www.vitals.com/directory']
+    start_urls = ['https://www.vitals.com/directory/a']
 
     rules = (
         Rule(
