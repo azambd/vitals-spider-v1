@@ -19,11 +19,15 @@ class UchcSpider(scrapy.Spider):
 		headers={'Content-Type':'application/json; charset=UTF-8'}
 
 		#url = "http://592dc5anbt-dsn.algolia.net/1/indexes/*/queries?x-algolia-application-id=592DC5ANBT&x-algolia-api-key=3abbd60cc696b3a9d83ee2fcae88e351"
-		payload = {'requests': [{'indexName': 'vitals_instant_search','params': 'query=*&hitsPerPage=40&page=20'}]}
+		for n in range(0, 3):
+			payload = {'requests': [{'indexName': 'vitals_instant_search','params': 'query=*&hitsPerPage=40&page={0}'.format(n)}]}
 
-		request_body = json.dumps(payload)
 
-    		yield Request(api_url, method="POST",body=request_body,headers=headers, )
+		#payload = {'requests': [{'indexName': 'vitals_instant_search','params': 'query=*&hitsPerPage=40&page={0}'.format(n)}]}
+
+			request_body = json.dumps(payload)
+
+    			yield Request(api_url, method="POST",body=request_body,headers=headers, )
 
 		
 
