@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=zwp5tb%7C1wj1qh%7C1qzqt4; path=/; expires=Mon, 25-Dec-2017 04:24:44 UTC
+Set-Cookie: rspec=geri%7Cintm%7Cdent%7Cplsg; path=/; expires=Mon, 25-Dec-2017 04:24:44 UTC
+Set-Cookie: rfspec=intm-gmed%7Cintm-intm%7Cdent-gend%7Cplsg-plsg; path=/; expires=Mon, 25-Dec-2017 04:24:44 UTC
+Set-Cookie: rpspec=geri%7Cdent%7Cplsg; path=/; expires=Mon, 25-Dec-2017 04:24:44 UTC
+Set-Cookie: rspex=1600%7C3231%7C4103%7C4746%7C5966%7C816%7C154%7C1604%7C2172%7C3702%7C710%7C5926; path=/; expires=Mon, 25-Dec-2017 04:24:44 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%7B%220%22%3A%22geri%22%2C%221%22%3A%22intm%22%2C%222%22%3A%22dent%22%2C%226%22%3A%22plsg%22%7D%2C%22mid%22%3A%7B%220%22%3A%22zwp5tb%22%2C%221%22%3A%221wj1qh%22%2C%224%22%3A%221qzqt4%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22geri%22%2C%221%22%3A%22dent%22%2C%224%22%3A%22plsg%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22intm-gmed%22%2C%221%22%3A%22intm-intm%22%2C%222%22%3A%22dent-gend%22%2C%226%22%3A%22plsg-plsg%22%7D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 04:24:44 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12297
+Date: Sun, 24 Dec 2017 04:24:44 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

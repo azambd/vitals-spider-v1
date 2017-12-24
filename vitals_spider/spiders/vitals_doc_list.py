@@ -8,6 +8,9 @@ from pprint import pprint
 
 from ..items import VitalsSpiderItem
 
+#Using API as a data Source for vitals.com to extract doctors link would not allow more than 1000 links , API is very restricted 
+#So use vitals.py to get physicians from its alphabetical seatch - that is the correct direction to scrape it. 
+
 class UchcSpider(scrapy.Spider):
 	name = 'vitals_doc_list'
 	allowed_domains = ['592dc5anbt-2.algolianet.com']

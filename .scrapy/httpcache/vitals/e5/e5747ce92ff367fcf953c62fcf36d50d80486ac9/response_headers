@@ -1,0 +1,15 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=1w00nc%7Cad5723%7Czsqd2p; path=/; expires=Mon, 25-Dec-2017 06:17:28 UTC
+Set-Cookie: rspec=intm%7Cfamp%7Cgenp%7Cphys; path=/; expires=Mon, 25-Dec-2017 06:17:28 UTC
+Set-Cookie: rfspec=intm-intm%7Cfamp-famp%7Cgenp-genp%7Cphys-phys; path=/; expires=Mon, 25-Dec-2017 06:17:28 UTC
+Set-Cookie: rpspec=intm%7Cfamp%7Cphys; path=/; expires=Mon, 25-Dec-2017 06:17:28 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%7B%220%22%3A%22intm%22%2C%221%22%3A%22famp%22%2C%222%22%3A%22genp%22%2C%226%22%3A%22phys%22%7D%2C%22mid%22%3A%7B%220%22%3A%221w00nc%22%2C%221%22%3A%22ad5723%22%2C%224%22%3A%22zsqd2p%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22intm%22%2C%221%22%3A%22famp%22%2C%224%22%3A%22phys%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22intm-intm%22%2C%221%22%3A%22famp-famp%22%2C%222%22%3A%22genp-genp%22%2C%226%22%3A%22phys-phys%22%7D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:17:28 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12297
+Date: Sun, 24 Dec 2017 06:17:28 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

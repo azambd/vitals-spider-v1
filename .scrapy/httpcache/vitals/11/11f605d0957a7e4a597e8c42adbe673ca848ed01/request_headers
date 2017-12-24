@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: rmid=1pzg2m%7Czqqnhy; rspec=gast%7Cintm%7Copth; rfspec=intm-gast%7Cintm-intm%7Copth-opth; rpspec=gast%7Copth; PHPSESSID=cc0ngbb8pv0nh00tsaeqd15em3; rspex=474%7C1194%7C1891%7C5154%7C1379%7C3137%7C5294%7C6881; retarget=%7B%22spec%22%3A%7B%220%22%3A%22gast%22%2C%221%22%3A%22intm%22%2C%224%22%3A%22opth%22%7D%2C%22mid%22%3A%7B%220%22%3A%221pzg2m%22%2C%222%22%3A%22zqqnhy%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22gast%22%2C%222%22%3A%22opth%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22intm-gast%22%2C%221%22%3A%22intm-intm%22%2C%224%22%3A%22opth-opth%22%7D%7D
+Referer: https://www.vitals.com/directory/a3

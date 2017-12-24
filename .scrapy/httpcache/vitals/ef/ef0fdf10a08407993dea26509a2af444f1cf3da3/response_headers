@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=a06a04%7C1qdz7h%7C1snysk%7C1pncxg%7Czqqs03%7C1s8t7m%7C1pn70p%7C1p7hrs%7C1nky1h%7Ca4c256%7C1wgxkm%7C1q71gn; path=/; expires=Mon, 25-Dec-2017 06:28:25 UTC
+Set-Cookie: rspec=pulm%7Cintm%7Ccmed%7Cpeds%7Cfamp%7Csurg%7Cneur%7Cslmd%7Cgast%7Conco%7Chema; path=/; expires=Mon, 25-Dec-2017 06:28:25 UTC
+Set-Cookie: rfspec=intm-pulm%7Cintm-intm%7Cintm-cmed%7Cpeds-peds%7Cfamp-famp%7Csurg-surg%7Cneur-neur%7Cintm-slmd%7Cintm-gast%7Cintm-heon%7Cintm-hema%7Cintm-onco; path=/; expires=Mon, 25-Dec-2017 06:28:25 UTC
+Set-Cookie: rpspec=pulm%7Cpeds%7Cfamp%7Csurg%7Cneur%7Cgast%7Cintm%7Conco; path=/; expires=Mon, 25-Dec-2017 06:28:25 UTC
+Set-Cookie: rspex=2739%7C2740%7C91%7C816%7C899%7C1096%7C1192%7C1548%7C2835%7C3647%7C3823%7C4214; path=/; expires=Mon, 25-Dec-2017 06:28:25 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22intm%22%2C%222%22%3A%22cmed%22%2C%223%22%3A%22peds%22%2C%224%22%3A%22famp%22%2C%225%22%3A%22surg%22%2C%226%22%3A%22neur%22%2C%227%22%3A%22slmd%22%2C%228%22%3A%22gast%22%2C%2218%22%3A%22onco%22%2C%2219%22%3A%22hema%22%7D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%22a06a04%22%2C%222%22%3A%221qdz7h%22%2C%223%22%3A%221snysk%22%2C%224%22%3A%221pncxg%22%2C%225%22%3A%22zqqs03%22%2C%226%22%3A%221s8t7m%22%2C%227%22%3A%221pn70p%22%2C%228%22%3A%221p7hrs%22%2C%229%22%3A%221nky1h%22%2C%2210%22%3A%22a4c256%22%2C%2211%22%3A%221wgxkm%22%2C%2223%22%3A%221q71gn%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22peds%22%2C%222%22%3A%22famp%22%2C%223%22%3A%22surg%22%2C%224%22%3A%22neur%22%2C%225%22%3A%22gast%22%2C%226%22%3A%22intm%22%2C%2214%22%3A%22onco%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22intm-pulm%22%2C%221%22%3A%22intm-intm%22%2C%222%22%3A%22intm-cmed%22%2C%223%22%3A%22peds-peds%22%2C%224%22%3A%22famp-famp%22%2C%225%22%3A%22surg-surg%22%2C%226%22%3A%22neur-neur%22%2C%227%22%3A%22intm-slmd%22%2C%228%22%3A%22intm-gast%22%2C%2218%22%3A%22intm-heon%22%2C%2219%22%3A%22intm-hema%22%2C%2220%22%3A%22intm-onco%22%7D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:28:25 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12553
+Date: Sun, 24 Dec 2017 06:28:25 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

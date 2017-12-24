@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: rmid=1zh30f%7C1qb4zx%7C1zqcmq; rspec=derm%7Cdent%7Chosp; rfspec=derm-derm%7Cdent-gend%7Chosp-hosp; rpspec=derm%7Cdent%7Chosp; PHPSESSID=cc0ngbb8pv0nh00tsaeqd15em3; rspex=5926%7C77%7C482%7C2733%7C2739%7C2740%7C2887%7C2889%7C2809%7C6598%7C3949%7C5154; retarget=%7B%22spec%22%3A%7B%220%22%3A%22derm%22%2C%221%22%3A%22dent%22%2C%224%22%3A%22hosp%22%7D%2C%22mid%22%3A%7B%220%22%3A%221zh30f%22%2C%221%22%3A%221qb4zx%22%2C%224%22%3A%221zqcmq%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22derm%22%2C%221%22%3A%22dent%22%2C%224%22%3A%22hosp%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22derm-derm%22%2C%221%22%3A%22dent-gend%22%2C%224%22%3A%22hosp-hosp%22%7D%7D
+Referer: https://www.vitals.com/directory/a697

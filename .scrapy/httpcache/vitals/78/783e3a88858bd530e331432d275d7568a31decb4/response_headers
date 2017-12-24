@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=1qbyy1%7Ca06a04%7C1t8xg4%7Czx9f0x%7C1xg3x6%7Czwqjbd%7C1rgx9t%7C1q0wzk%7C1w173f%7C1ssy2y%7C1z437g%7Cztp5q4; path=/; expires=Mon, 25-Dec-2017 06:28:22 UTC
+Set-Cookie: rspec=onco%7Chema%7Cgast%7Cphys%7Cpesp%7Cemed%7Cradi%7Chosp%7Cfamp%7Cpodt%7Canes%7Ccard; path=/; expires=Mon, 25-Dec-2017 06:28:22 UTC
+Set-Cookie: rfspec=intm-intm%7Cemed-peds%7Cemed-emed%7Cradi-radi%7Chosp-hosp%7Cradi-drad%7Cfamp-famp%7Cpods-pods%7Canes-anes%7Cintm-cdis%7Cintm-card%7Cintm-ccel; path=/; expires=Mon, 25-Dec-2017 06:28:22 UTC
+Set-Cookie: rpspec=onco%7Cphys%7Cpesp%7Cradi%7Chosp%7Cintm%7Cgast%7Cento%7Cfamp%7Cpodt%7Canes%7Ccard; path=/; expires=Mon, 25-Dec-2017 06:28:22 UTC
+Set-Cookie: rspex=6696%7C285%7C549%7C4954%7C2756%7C6881%7C1379%7C77%7C2733%7C2887%7C2889%7C6598; path=/; expires=Mon, 25-Dec-2017 06:28:22 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22intm%22%2C%222%22%3A%22cmed%22%2C%223%22%3A%22peds%22%2C%224%22%3A%22pesp%22%2C%225%22%3A%22emed%22%2C%226%22%3A%22radi%22%2C%227%22%3A%22hosp%22%2C%228%22%3A%22gast%22%2C%229%22%3A%22famp%22%2C%2210%22%3A%22podt%22%2C%2211%22%3A%22dent%22%2C%2212%22%3A%22anes%22%2C%2213%22%3A%22neph%22%2C%2214%22%3A%22onco%22%2C%2215%22%3A%22hema%22%2C%2217%22%3A%22phys%22%2C%2225%22%3A%22card%22%7D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%22a06a04%22%2C%222%22%3A%221t8xg4%22%2C%223%22%3A%22zx9f0x%22%2C%224%22%3A%221xg3x6%22%2C%225%22%3A%22zwqjbd%22%2C%226%22%3A%221rgx9t%22%2C%227%22%3A%221q0wzk%22%2C%228%22%3A%221w173f%22%2C%229%22%3A%221ssy2y%22%2C%2210%22%3A%221z437g%22%2C%2222%22%3A%22ztp5q4%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22peds%22%2C%222%22%3A%22pesp%22%2C%223%22%3A%22radi%22%2C%224%22%3A%22hosp%22%2C%225%22%3A%22intm%22%2C%226%22%3A%22gast%22%2C%227%22%3A%22ento%22%2C%228%22%3A%22famp%22%2C%229%22%3A%22podt%22%2C%2210%22%3A%22dent%22%2C%2211%22%3A%22anes%22%2C%2212%22%3A%22neph%22%2C%2213%22%3A%22onco%22%2C%2214%22%3A%22phys%22%2C%2224%22%3A%22card%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22intm-pulm%22%2C%221%22%3A%22intm-intm%22%2C%222%22%3A%22intm-cmed%22%2C%223%22%3A%22peds-peds%22%2C%224%22%3A%22emed-peds%22%2C%225%22%3A%22emed-emed%22%2C%226%22%3A%22radi-radi%22%2C%227%22%3A%22hosp-hosp%22%2C%228%22%3A%22radi-drad%22%2C%229%22%3A%22peds-gast%22%2C%2210%22%3A%22famp-famp%22%2C%2211%22%3A%22pods-pods%22%2C%2212%22%3A%22dent-gend%22%2C%2213%22%3A%22anes-anes%22%2C%2214%22%3A%22intm-neph%22%2C%2224%22%3A%22intm-cdis%22%2C%2225%22%3A%22intm-card%22%2C%2226%22%3A%22intm-ccel%22%7D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:28:22 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12297
+Date: Sun, 24 Dec 2017 06:28:22 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

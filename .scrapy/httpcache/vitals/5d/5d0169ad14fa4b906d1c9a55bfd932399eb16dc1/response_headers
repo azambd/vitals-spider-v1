@@ -1,0 +1,15 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=1q4cjc%7Czqb0rs%7C1nwnq8%7C1s941t%7Czwhnzm%7C1qdzh0%7C1wzfds%7C1w3xb5%7C1nxb2q%7Czxn3m3%7C1sxkp4%7C1r6tbj; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+Set-Cookie: rspec=infd%7Cintm%7Cento%7Canes%7Conco%7Cgast%7Cnrsg%7Cpeds; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+Set-Cookie: rfspec=intm-infd%7Cintm-intm%7Cento-nert%7Canes-anes%7Cintm-heon%7Cintm-gast%7Cnrsg-nrsg%7Cpeds-peds; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+Set-Cookie: rpspec=infd%7Cento%7Cintm%7Canes%7Conco%7Cgast%7Cnrsg%7Cpeds; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%5B%22infd%22%2C%22intm%22%2C%22ento%22%2C%22anes%22%2C%22onco%22%2C%22gast%22%2C%22nrsg%22%2C%22peds%22%5D%2C%22mid%22%3A%7B%220%22%3A%221q4cjc%22%2C%221%22%3A%22zqb0rs%22%2C%222%22%3A%221nwnq8%22%2C%223%22%3A%221s941t%22%2C%224%22%3A%22zwhnzm%22%2C%225%22%3A%221qdzh0%22%2C%226%22%3A%221wzfds%22%2C%227%22%3A%221w3xb5%22%2C%228%22%3A%221nxb2q%22%2C%229%22%3A%22zxn3m3%22%2C%2210%22%3A%221sxkp4%22%2C%2222%22%3A%221r6tbj%22%7D%2C%22pspec%22%3A%5B%22infd%22%2C%22ento%22%2C%22intm%22%2C%22anes%22%2C%22onco%22%2C%22gast%22%2C%22nrsg%22%2C%22peds%22%5D%2C%22fspec%22%3A%5B%22intm-infd%22%2C%22intm-intm%22%2C%22ento-nert%22%2C%22anes-anes%22%2C%22intm-heon%22%2C%22intm-gast%22%2C%22nrsg-nrsg%22%2C%22peds-peds%22%5D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:28:22 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12297
+Date: Sun, 24 Dec 2017 06:28:23 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

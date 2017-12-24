@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: rmid=1qbyy1%7C1qhw20%7C1rh4kf%7C1z300j%7Czr94rr; rspec=pulm%7Cintm%7Ccmed%7Cdent%7Cfamp; rfspec=intm-pulm%7Cintm-intm%7Cintm-cmed%7Cdent-gend%7Cfamp-famp; rpspec=pulm%7Cdent%7Cintm%7Cfamp; PHPSESSID=cc0ngbb8pv0nh00tsaeqd15em3; rspex=3949%7C5154%7C62%7C1628%7C6577%7C6578%7C2256%7C3046%7C3088%7C3098%7C4533%7C6881; retarget=%7B%22spec%22%3A%5B%22pulm%22%2C%22intm%22%2C%22cmed%22%2C%22dent%22%2C%22famp%22%5D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%221qhw20%22%2C%222%22%3A%221rh4kf%22%2C%223%22%3A%221z300j%22%2C%228%22%3A%22zr94rr%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22dent%22%2C%222%22%3A%22intm%22%2C%226%22%3A%22famp%22%7D%2C%22fspec%22%3A%5B%22intm-pulm%22%2C%22intm-intm%22%2C%22intm-cmed%22%2C%22dent-gend%22%2C%22famp-famp%22%5D%7D
+Referer: https://www.vitals.com/directory/a693

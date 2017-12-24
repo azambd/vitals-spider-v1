@@ -1,0 +1,12 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=1qbyy1%7Ca06a04%7C1w681w%7C1xq5bt%7C1nt0zf%7C1th7gp%7Czt2bkq%7C1r64w3%7C1tfc76%7C1s0s4m; path=/; expires=Mon, 25-Dec-2017 06:28:18 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%5B%22pulm%22%2C%22intm%22%2C%22cmed%22%2C%22peds%22%2C%22dent%22%2C%22psyd%22%2C%22genp%22%2C%22famp%22%2C%22anes%22%5D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%22a06a04%22%2C%222%22%3A%221w681w%22%2C%223%22%3A%221xq5bt%22%2C%224%22%3A%221nt0zf%22%2C%225%22%3A%221th7gp%22%2C%226%22%3A%22zt2bkq%22%2C%227%22%3A%221r64w3%22%2C%228%22%3A%221tfc76%22%2C%2218%22%3A%221s0s4m%22%7D%2C%22pspec%22%3A%5B%22pulm%22%2C%22peds%22%2C%22dent%22%2C%22psyd%22%2C%22genp%22%2C%22anes%22%5D%2C%22fspec%22%3A%5B%22intm-pulm%22%2C%22intm-intm%22%2C%22intm-cmed%22%2C%22peds-peds%22%2C%22dent-orth%22%2C%22dent-gend%22%2C%22intm-infd%22%2C%22ento-nert%22%2C%22anes-anes%22%2C%22intm-heon%22%2C%22genp-genp%22%2C%22famp-famp%22%5D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:28:18 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12297
+Date: Sun, 24 Dec 2017 06:28:18 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

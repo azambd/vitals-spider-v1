@@ -1,0 +1,15 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=zqkyt6%7C1nmg14%7C1nstft%7C1qbyy1%7C1x50xw%7C1sstxz%7C1z6qk1%7C1zbtt8%7C1t7c7q%7C1pyppt%7C1tn6x0%7C1qyzss; path=/; expires=Mon, 25-Dec-2017 06:40:50 UTC
+Set-Cookie: rspec=neur%7Cfamp%7Ccard%7Cdent%7Cpulm%7Csurg%7Cplsg%7Cpsyd%7Cintm%7Ccmed%7Cemed%7Cpeds; path=/; expires=Mon, 25-Dec-2017 06:40:50 UTC
+Set-Cookie: rpspec=psyc%7Cfamp%7Ccard%7Cdent%7Csurg%7Cpsyd%7Cemed%7Cpeds%7Chmed%7Cpulm%7Cderm%7Cintm; path=/; expires=Mon, 25-Dec-2017 06:40:50 UTC
+Set-Cookie: rspex=3509%7C5777%7C6114%7C1604%7C5926%7C175%7C3137%7C4546%7C7140%7C3231%7C5966%7C6178; path=/; expires=Mon, 25-Dec-2017 06:40:50 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%5B%22pulm%22%2C%22intm%22%2C%22cmed%22%2C%22derm%22%2C%22obgn%22%2C%22psyc%22%2C%22neur%22%2C%22famp%22%2C%22card%22%2C%22dent%22%2C%22surg%22%2C%22plsg%22%2C%22psyd%22%2C%22emed%22%2C%22peds%22%2C%22hmed%22%5D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%221sstxz%22%2C%222%22%3A%221z6qk1%22%2C%223%22%3A%221t7c7q%22%2C%224%22%3A%221pyppt%22%2C%225%22%3A%221tn6x0%22%2C%226%22%3A%221wng8s%22%2C%227%22%3A%221z190m%22%2C%228%22%3A%221npdbs%22%2C%229%22%3A%221nzdh4%22%2C%2210%22%3A%22zqkyt6%22%2C%2211%22%3A%221nmg14%22%2C%2212%22%3A%221nstft%22%2C%2213%22%3A%221x50xw%22%2C%2214%22%3A%221zbtt8%22%2C%2226%22%3A%221qyzss%22%7D%2C%22pspec%22%3A%5B%22pulm%22%2C%22derm%22%2C%22intm%22%2C%22obgn%22%2C%22psyc%22%2C%22famp%22%2C%22card%22%2C%22dent%22%2C%22surg%22%2C%22psyd%22%2C%22emed%22%2C%22peds%22%2C%22hmed%22%5D%2C%22fspec%22%3A%5B%22intm-pulm%22%2C%22intm-intm%22%2C%22intm-cmed%22%2C%22derm-derm%22%2C%22obgn-obgn%22%2C%22psyc-psyc%22%2C%22neur-neur%22%2C%22famp-famp%22%2C%22intm-cdis%22%2C%22dent-gend%22%2C%22surg-soth%22%2C%22surg-surg%22%2C%22plsg-plsg%22%2C%22anes-anes%22%2C%22peds-cmed%22%2C%22peds-peds%22%2C%22intm-hmed%22%2C%22dent-pros%22%5D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:40:49 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12553
+Date: Sun, 24 Dec 2017 06:40:50 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

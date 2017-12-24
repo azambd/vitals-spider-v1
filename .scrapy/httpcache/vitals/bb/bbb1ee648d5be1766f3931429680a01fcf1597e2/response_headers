@@ -1,0 +1,15 @@
+Content-Encoding: gzip
+Set-Cookie: rspec=derm%7Cdent%7Chosp%7Cendo%7Cintm%7Cpath%7Cnmed; path=/; expires=Mon, 25-Dec-2017 06:40:35 UTC
+Set-Cookie: rmid=1zh30f%7C1qb4zx%7C1zqcmq%7C1rnp1f%7Czpp517%7C1s5qc9; path=/; expires=Mon, 25-Dec-2017 06:40:35 UTC
+Set-Cookie: rfspec=derm-derm%7Cdent-gend%7Chosp-hosp%7Cintm-endo%7Cintm-intm%7Cpath-path%7Cnmed-nmed%7Cpath-cpth; path=/; expires=Mon, 25-Dec-2017 06:40:35 UTC
+Set-Cookie: rpspec=derm%7Cdent%7Chosp%7Cendo%7Cpath; path=/; expires=Mon, 25-Dec-2017 06:40:35 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%5B%22derm%22%2C%22dent%22%2C%22hosp%22%2C%22endo%22%2C%22intm%22%2C%22path%22%2C%22nmed%22%5D%2C%22mid%22%3A%7B%220%22%3A%221zh30f%22%2C%221%22%3A%221qb4zx%22%2C%222%22%3A%221zqcmq%22%2C%223%22%3A%221rnp1f%22%2C%224%22%3A%22zpp517%22%2C%2210%22%3A%221s5qc9%22%7D%2C%22pspec%22%3A%5B%22derm%22%2C%22dent%22%2C%22hosp%22%2C%22endo%22%2C%22path%22%5D%2C%22fspec%22%3A%5B%22derm-derm%22%2C%22dent-gend%22%2C%22hosp-hosp%22%2C%22intm-endo%22%2C%22intm-intm%22%2C%22path-path%22%2C%22nmed-nmed%22%2C%22path-cpth%22%5D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:40:35 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12553
+Date: Sun, 24 Dec 2017 06:40:35 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

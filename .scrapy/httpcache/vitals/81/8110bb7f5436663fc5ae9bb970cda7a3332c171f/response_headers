@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=1zh30f%7C1qb4zx%7C1zqcmq; path=/; expires=Mon, 25-Dec-2017 06:40:30 UTC
+Set-Cookie: rspec=derm%7Cdent%7Chosp; path=/; expires=Mon, 25-Dec-2017 06:40:30 UTC
+Set-Cookie: rfspec=derm-derm%7Cdent-gend%7Chosp-hosp; path=/; expires=Mon, 25-Dec-2017 06:40:30 UTC
+Set-Cookie: rpspec=derm%7Cdent%7Chosp; path=/; expires=Mon, 25-Dec-2017 06:40:30 UTC
+Set-Cookie: rspex=5926%7C77%7C482%7C2733%7C2739%7C2740%7C2887%7C2889%7C2809%7C6598%7C3949%7C5154; path=/; expires=Mon, 25-Dec-2017 06:40:30 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%7B%220%22%3A%22derm%22%2C%221%22%3A%22dent%22%2C%224%22%3A%22hosp%22%7D%2C%22mid%22%3A%7B%220%22%3A%221zh30f%22%2C%221%22%3A%221qb4zx%22%2C%224%22%3A%221zqcmq%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22derm%22%2C%221%22%3A%22dent%22%2C%224%22%3A%22hosp%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22derm-derm%22%2C%221%22%3A%22dent-gend%22%2C%224%22%3A%22hosp-hosp%22%7D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:40:30 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12553
+Date: Sun, 24 Dec 2017 06:40:30 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

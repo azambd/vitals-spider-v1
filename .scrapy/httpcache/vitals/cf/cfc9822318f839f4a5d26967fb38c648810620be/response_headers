@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=1qbyy1%7C1tzj8c%7C1wf1cd; path=/; expires=Mon, 25-Dec-2017 06:40:29 UTC
+Set-Cookie: rspec=pulm%7Cintm%7Ccmed%7Cdent%7Canes; path=/; expires=Mon, 25-Dec-2017 06:40:29 UTC
+Set-Cookie: rfspec=intm-pulm%7Cintm-intm%7Cintm-cmed%7Cdent-gend%7Canes-anes; path=/; expires=Mon, 25-Dec-2017 06:40:29 UTC
+Set-Cookie: rpspec=pulm%7Cdent%7Canes; path=/; expires=Mon, 25-Dec-2017 06:40:29 UTC
+Set-Cookie: rspex=474%7C1194%7C1891%7C5154%7C2964%7C3957%7C4695%7C285; path=/; expires=Mon, 25-Dec-2017 06:40:29 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22intm%22%2C%222%22%3A%22cmed%22%2C%223%22%3A%22dent%22%2C%228%22%3A%22anes%22%7D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%221tzj8c%22%2C%224%22%3A%221wf1cd%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22dent%22%2C%224%22%3A%22anes%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22intm-pulm%22%2C%221%22%3A%22intm-intm%22%2C%222%22%3A%22intm-cmed%22%2C%223%22%3A%22dent-gend%22%2C%228%22%3A%22anes-anes%22%7D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:40:29 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12553
+Date: Sun, 24 Dec 2017 06:40:29 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

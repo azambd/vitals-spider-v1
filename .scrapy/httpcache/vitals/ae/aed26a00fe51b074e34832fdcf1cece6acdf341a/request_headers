@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: rmid=1qbyy1%7C1srjx6%7C1sy6yg%7C1ssds9%7C1qcq8q%7C1r7hyd; rspec=pulm%7Cintm%7Ccmed%7Cdent%7Cfamp%7Cpeds%7Curol%7Cpsyd; rfspec=intm-pulm%7Cintm-intm%7Cintm-cmed%7Cintm-gast%7Cdent-pros%7Cdent-gend%7Cpath-path%7Cpath-cpth%7Cintm-smed; rpspec=pulm%7Cdent%7Cfamp%7Cpeds%7Curol%7Cpsyd; PHPSESSID=cc0ngbb8pv0nh00tsaeqd15em3; rspex=2964%7C3957%7C4695%7C1379%7C3137%7C6881%7C6696%7C2034%7C7140%7C3231%7C5966%7C6178; retarget=%7B%22spec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22intm%22%2C%222%22%3A%22cmed%22%2C%223%22%3A%22dent%22%2C%224%22%3A%22famp%22%2C%225%22%3A%22peds%22%2C%226%22%3A%22urol%22%2C%2214%22%3A%22psyd%22%7D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%221srjx6%22%2C%222%22%3A%221sy6yg%22%2C%223%22%3A%221ssds9%22%2C%224%22%3A%221qcq8q%22%2C%2210%22%3A%221r7hyd%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22dent%22%2C%222%22%3A%22famp%22%2C%223%22%3A%22peds%22%2C%224%22%3A%22urol%22%2C%2210%22%3A%22psyd%22%7D%2C%22fspec%22%3A%5B%22intm-pulm%22%2C%22intm-intm%22%2C%22intm-cmed%22%2C%22dent-gend%22%2C%22famp-famp%22%2C%22peds-peds%22%2C%22urol-urol%22%5D%7D
+Referer: https://www.vitals.com/directory/a685

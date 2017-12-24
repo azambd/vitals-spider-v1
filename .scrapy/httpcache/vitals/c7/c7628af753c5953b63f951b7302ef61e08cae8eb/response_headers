@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=zp3483; path=/; expires=Mon, 25-Dec-2017 04:14:36 UTC
+Set-Cookie: rspec=card%7Cintm; path=/; expires=Mon, 25-Dec-2017 04:14:36 UTC
+Set-Cookie: rfspec=intm-cdis%7Cintm-intm; path=/; expires=Mon, 25-Dec-2017 04:14:36 UTC
+Set-Cookie: rpspec=card; path=/; expires=Mon, 25-Dec-2017 04:14:36 UTC
+Set-Cookie: rspex=77%7C482%7C2733%7C2739%7C2740%7C2887%7C2889%7C2809%7C6598; path=/; expires=Mon, 25-Dec-2017 04:14:36 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%5B%22card%22%2C%22intm%22%5D%2C%22mid%22%3A%5B%22zp3483%22%5D%2C%22pspec%22%3A%5B%22card%22%5D%2C%22fspec%22%3A%5B%22intm-cdis%22%2C%22intm-intm%22%5D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 04:14:36 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12297
+Date: Sun, 24 Dec 2017 04:14:36 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=1znkzb%7C1xns69%7Czx3x1z; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: rspec=psyd%7Cemed%7Cpsyc; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: rfspec=radi-drad%7Cradi-radi%7Cemed-emed%7Cpsyc-psyc; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: rpspec=psyd%7Cemed%7Cpsyc; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: rspex=5777%7C70%7C226%7C2338%7C3813%7C6114%7C650%7C7140%7C1600%7C3231%7C4746%7C5966; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%7B%220%22%3A%22psyd%22%2C%221%22%3A%22emed%22%2C%224%22%3A%22psyc%22%7D%2C%22mid%22%3A%7B%220%22%3A%221znkzb%22%2C%221%22%3A%221xns69%22%2C%224%22%3A%22zx3x1z%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22psyd%22%2C%221%22%3A%22emed%22%2C%224%22%3A%22psyc%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22radi-drad%22%2C%221%22%3A%22radi-radi%22%2C%222%22%3A%22emed-emed%22%2C%226%22%3A%22psyc-psyc%22%7D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12297
+Date: Sun, 24 Dec 2017 04:24:47 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

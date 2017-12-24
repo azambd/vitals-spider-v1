@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: rmid=1qbyy1%7Ca06a04%7C1t8xg4%7Czx9f0x%7C1xg3x6%7Czwqjbd%7C1rgx9t; rspec=pulm%7Cintm%7Ccmed%7Cpeds%7Cpesp%7Cemed%7Cradi%7Chosp; rfspec=intm-pulm%7Cintm-intm%7Cintm-cmed%7Cpeds-peds%7Cemed-peds%7Cemed-emed%7Cradi-radi%7Chosp-hosp; rpspec=pulm%7Cpeds%7Cpesp%7Cradi%7Chosp%7Cintm; PHPSESSID=cc0ngbb8pv0nh00tsaeqd15em3; rspex=4419%7C5122%7C2756%7C3137%7C6696%7C6881%7C7140%7C3231%7C5966%7C6178%7C4591%7C285; retarget=%7B%22spec%22%3A%5B%22pulm%22%2C%22intm%22%2C%22cmed%22%2C%22peds%22%2C%22pesp%22%2C%22emed%22%2C%22radi%22%2C%22hosp%22%5D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%22a06a04%22%2C%222%22%3A%221t8xg4%22%2C%223%22%3A%22zx9f0x%22%2C%224%22%3A%221xg3x6%22%2C%225%22%3A%22zwqjbd%22%2C%2212%22%3A%221rgx9t%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22peds%22%2C%222%22%3A%22pesp%22%2C%223%22%3A%22radi%22%2C%224%22%3A%22hosp%22%2C%2210%22%3A%22intm%22%7D%2C%22fspec%22%3A%5B%22intm-pulm%22%2C%22intm-intm%22%2C%22intm-cmed%22%2C%22peds-peds%22%2C%22emed-peds%22%2C%22emed-emed%22%2C%22radi-radi%22%2C%22hosp-hosp%22%5D%7D
+Referer: https://www.vitals.com/directory/a15

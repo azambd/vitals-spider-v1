@@ -1,0 +1,6 @@
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Scrapy/1.4.0 (+http://scrapy.org)
+Cookie: rmid=1qbyy1%7C1rbsyd; rspec=pulm%7Cintm%7Ccmed%7Cpodt; rfspec=intm-pulm%7Cintm-intm%7Cintm-cmed%7Cpods-pods; rpspec=pulm%7Cpodt; PHPSESSID=cc0ngbb8pv0nh00tsaeqd15em3; rspex=474%7C1194%7C1891%7C5154%7C4419%7C5122; retarget=%7B%22spec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22intm%22%2C%222%22%3A%22cmed%22%2C%226%22%3A%22podt%22%7D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%222%22%3A%221rbsyd%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22pulm%22%2C%222%22%3A%22podt%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22intm-pulm%22%2C%221%22%3A%22intm-intm%22%2C%222%22%3A%22intm-cmed%22%2C%226%22%3A%22pods-pods%22%7D%7D
+Referer: https://www.vitals.com/directory/a7

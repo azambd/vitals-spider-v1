@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=1r3kq3%7C1twkgg%7C1xnt82; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: rspec=chro%7Cphys%7Corsg%7Cpulm%7Cintm%7Ccmed; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: rfspec=radi-drad%7Cradi-radi%7Cphys-phys%7Corsg-sots%7Cintm-pulm%7Cintm-intm%7Cintm-cmed; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: rpspec=radi%7Cphys%7Cpulm; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: rspex=3743%7C4271%7C5777%7C70%7C226%7C2338%7C3813%7C6114%7C474%7C1194%7C1891%7C5154; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%7B%220%22%3A%22chro%22%2C%221%22%3A%22phys%22%2C%222%22%3A%22orsg%22%2C%226%22%3A%22pulm%22%2C%227%22%3A%22intm%22%2C%228%22%3A%22cmed%22%7D%2C%22mid%22%3A%7B%220%22%3A%221r3kq3%22%2C%221%22%3A%221twkgg%22%2C%224%22%3A%221xnt82%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22radi%22%2C%221%22%3A%22phys%22%2C%224%22%3A%22pulm%22%7D%2C%22fspec%22%3A%7B%220%22%3A%22radi-drad%22%2C%221%22%3A%22radi-radi%22%2C%222%22%3A%22phys-phys%22%2C%223%22%3A%22orsg-sots%22%2C%228%22%3A%22intm-pulm%22%2C%229%22%3A%22intm-intm%22%2C%2210%22%3A%22intm-cmed%22%7D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 04:24:47 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12297
+Date: Sun, 24 Dec 2017 04:24:47 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

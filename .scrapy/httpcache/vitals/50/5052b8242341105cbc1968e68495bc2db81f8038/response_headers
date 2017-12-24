@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=a06a04%7C1skhpz%7C1s59qh%7C1xnj3j%7C1t807f%7C1ptfth%7C1wn2h8%7C1rk522%7C1xm8yw%7C1nwmf1%7C1w92st%7C1wz1fy; path=/; expires=Mon, 25-Dec-2017 06:28:26 UTC
+Set-Cookie: rspec=pulm%7Cintm%7Ccmed%7Cpeds%7Cchro%7Corsg%7Csurg%7Cdent%7Cemed%7Copth%7Cfamp%7Cneph; path=/; expires=Mon, 25-Dec-2017 06:28:26 UTC
+Set-Cookie: rfspec=intm-pulm%7Cintm-intm%7Cintm-cmed%7Cpeds-peds%7Cfamp-famp%7Corsg-orsg%7Csurg-trau%7Csurg-surg%7Cdent-orth%7Cemed-emed%7Copth-opth%7Cintm-neph; path=/; expires=Mon, 25-Dec-2017 06:28:26 UTC
+Set-Cookie: rpspec=pulm%7Cpeds%7Cfamp%7Corsg%7Cdent%7Cintm%7Cemed%7Copth%7Csurg%7Cneph; path=/; expires=Mon, 25-Dec-2017 06:28:26 UTC
+Set-Cookie: rspex=2594%7C3833%7C5618%7C1379%7C3231%7C4103%7C4746%7C2784%7C5029%7C2756%7C3137%7C6696; path=/; expires=Mon, 25-Dec-2017 06:28:26 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%5B%22pulm%22%2C%22intm%22%2C%22cmed%22%2C%22peds%22%2C%22chro%22%2C%22orsg%22%2C%22surg%22%2C%22dent%22%2C%22emed%22%2C%22opth%22%2C%22famp%22%2C%22neph%22%5D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%22a06a04%22%2C%222%22%3A%221skhpz%22%2C%223%22%3A%221s59qh%22%2C%224%22%3A%221xnj3j%22%2C%225%22%3A%221t807f%22%2C%226%22%3A%221ptfth%22%2C%227%22%3A%221wn2h8%22%2C%228%22%3A%221rk522%22%2C%229%22%3A%221xm8yw%22%2C%2210%22%3A%221nwmf1%22%2C%2211%22%3A%221w92st%22%2C%2223%22%3A%221wz1fy%22%7D%2C%22pspec%22%3A%5B%22pulm%22%2C%22peds%22%2C%22famp%22%2C%22orsg%22%2C%22dent%22%2C%22intm%22%2C%22emed%22%2C%22opth%22%2C%22surg%22%2C%22neph%22%5D%2C%22fspec%22%3A%5B%22intm-pulm%22%2C%22intm-intm%22%2C%22intm-cmed%22%2C%22peds-peds%22%2C%22famp-famp%22%2C%22orsg-orsg%22%2C%22surg-trau%22%2C%22surg-surg%22%2C%22dent-orth%22%2C%22emed-emed%22%2C%22opth-opth%22%2C%22intm-neph%22%5D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:28:26 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12553
+Date: Sun, 24 Dec 2017 06:28:26 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138

@@ -1,0 +1,16 @@
+Content-Encoding: gzip
+Set-Cookie: rmid=1qbyy1%7Ca06a04%7C1qdz7h%7C1snysk%7C1pncxg%7Czqqs03%7C1s8t7m%7C1njwp4%7C1w5gxp%7C1wsyrm%7Cztk21d%7C1wmfj1; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+Set-Cookie: rspec=cmed%7Cpeds%7Cfamp%7Csurg%7Cneur%7Cslmd%7Cgast%7Cpodt%7Cgenp%7Cobgn%7Chepa%7Cpulm; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+Set-Cookie: rfspec=intm-cmed%7Cpeds-peds%7Cfamp-famp%7Csurg-surg%7Cneur-neur%7Cintm-slmd%7Cintm-gast%7Cpods-pods%7Cgenp-genp%7Cobgn-obgn%7Cintm-hepa%7Cintm-pulm; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+Set-Cookie: rpspec=pulm%7Cpeds%7Cfamp%7Csurg%7Cneur%7Cgast%7Cpodt%7Cobgn%7Chepa%7Cintm; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+Set-Cookie: rspex=2835%7C6582%7C2756%7C3137%7C6696%7C6881%7C681%7C995%7C2594%7C3833%7C5618%7C1379; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+Set-Cookie: retarget=%7B%22spec%22%3A%5B%22pulm%22%2C%22intm%22%2C%22cmed%22%2C%22peds%22%2C%22famp%22%2C%22surg%22%2C%22neur%22%2C%22slmd%22%2C%22gast%22%2C%22podt%22%2C%22genp%22%2C%22obgn%22%2C%22hepa%22%5D%2C%22mid%22%3A%7B%220%22%3A%221qbyy1%22%2C%221%22%3A%22a06a04%22%2C%222%22%3A%221qdz7h%22%2C%223%22%3A%221snysk%22%2C%224%22%3A%221pncxg%22%2C%225%22%3A%22zqqs03%22%2C%226%22%3A%221s8t7m%22%2C%227%22%3A%221njwp4%22%2C%228%22%3A%221w5gxp%22%2C%229%22%3A%221wsyrm%22%2C%2210%22%3A%22ztk21d%22%2C%2222%22%3A%221wmfj1%22%7D%2C%22pspec%22%3A%7B%220%22%3A%22pulm%22%2C%221%22%3A%22peds%22%2C%222%22%3A%22famp%22%2C%223%22%3A%22surg%22%2C%224%22%3A%22neur%22%2C%225%22%3A%22gast%22%2C%226%22%3A%22podt%22%2C%227%22%3A%22obgn%22%2C%228%22%3A%22hepa%22%2C%2218%22%3A%22intm%22%7D%2C%22fspec%22%3A%5B%22intm-pulm%22%2C%22intm-intm%22%2C%22intm-cmed%22%2C%22peds-peds%22%2C%22famp-famp%22%2C%22surg-surg%22%2C%22neur-neur%22%2C%22intm-slmd%22%2C%22intm-gast%22%2C%22pods-pods%22%2C%22genp-genp%22%2C%22obgn-obgn%22%2C%22intm-hepa%22%5D%7D; domain=.vitals.com; path=/; expires=Mon, 25-Dec-2017 06:28:23 UTC
+X-Powered-By: PHP/5.6.32
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: nginx
+X-Dw: 0
+X-Db: 12297
+Date: Sun, 24 Dec 2017 06:28:23 GMT
+Content-Type: text/html;charset=UTF-8
+X-Dz: 202.86.217.138
