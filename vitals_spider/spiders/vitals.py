@@ -26,7 +26,7 @@ class VitalsSpider(CrawlSpider):
             temp_link = row.xpath('@href').extract()
             link = response.urljoin(''.join(temp_link))
             yield Request(link, callback=self.parse_item)
-            #print link
+            print link
 
     def parse_item(self, response):
         
