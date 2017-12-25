@@ -25,6 +25,26 @@ NEWSPIDER_MODULE = 'vitals_spider.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
+# Crawl responsibly by identifying yourself (and your website) on the user-agent
+USER_AGENT = 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
+
+# API Settings for pushing Data into API FEEDs
+
+#DEV
+#API_KEY = 'TOHhsxPyJnpZcUhLMMqj0XwipSY48PQxCXzIsW8FFpMt'
+
+#PROD
+#API_KEY = 'D1z4sXGcR1qJbfDSXKs1XGLl9dOOhPVQIHSq2U8QhQst'
+
+DOWNLOADER_MIDDLEWARES = {'scrapy_crawlera.CrawleraMiddleware': 600}
+CRAWLERA_ENABLED = True
+CRAWLERA_USER = ''
+CRAWLERA_PASS = ''
+CONCURRENT_REQUESTS = 32
+CONCURRENT_REQUESTS_PER_DOMAIN = 32
+AUTOTHROTTLE_ENABLED = False
+DOWNLOAD_TIMEOUT = 600
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
