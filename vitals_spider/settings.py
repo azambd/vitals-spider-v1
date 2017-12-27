@@ -175,7 +175,9 @@ FIELDS_TO_EXPORT = [
 
 FEED_FORMAT = 'csv'
 
-FEED_URI = "export/vitals_docList_{0}.csv".format(timestmp) # WHERE to store the export file
+#FEED_URI = "export/vitals_docList_{0}.csv".format(timestmp) # WHERE to store the export file
+FEED_URI = "export/vitals_docList.csv".format(timestmp) # WHERE to store the export file
+
 
 
 # Enable and configure the AutoThrottle extension (disabled by default)
