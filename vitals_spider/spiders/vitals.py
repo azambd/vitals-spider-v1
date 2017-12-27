@@ -9,6 +9,7 @@ from ..items import VitalsSpiderItem
 
 class VitalsSpider(CrawlSpider):
     name = 'vitals'
+    handle_httpstatus_list = [404, 400, 302, 301]
     allowed_domains = ['vitals.com']
     start_urls = [
             'https://www.vitals.com/directory/a',
@@ -41,15 +42,17 @@ class VitalsSpider(CrawlSpider):
 
     rules = (
         Rule(
-            LinkExtractor(allow = (), restrict_xpaths = ('//ul[@class="pagination"]/li/a',)),
+            LinkExtractor(allow = (), restrict_xpaths = ('//ul[@class="pagination"]/li/a',),unique=True,),
                 callback="parse_links", 
                 follow = True),)
     
     def parse_links(self, response):
         rows = response.xpath('//a[@class="name"]')
         for row in rows:
-            temp_link = row.xpath('@href').extract()
-            link = response.urljoin(''.join(temp_link))
+            # temp_link = row.xpath('@href').extract()
+            # link = response.urljoin(''.join(temp_link))
+            temp_link = row.xpath('@href').extract_first()
+            link = response.urljoin(temp_link)
             yield Request(link, callback=self.parse_item)
             print link
 
@@ -75,11 +78,28 @@ class VitalsSpider(CrawlSpider):
         except:
             item['street_address'] = ''
 
-        item['city'] = response.xpath('//span[@itemprop="addressLocality"]/text()').extract_first().strip()
-        item['state'] = response.xpath('//span[@itemprop="addressRegion"]/text()').extract_first().strip()
-        item['zip_code'] = response.xpath('//span[@itemprop="postalCode"]/text()').extract_first().strip()
-        item['responseCount'] = response.xpath('//meta[@itemprop="ratingCount"]/@content').extract_first()
-        
+        try:
+            city = response.xpath('//span[@itemprop="addressLocality"]/text()').extract_first()
+            city = city.strip()
+            item['city'] = city
+        except:
+            item['city'] = ''
+        try:
+            state = response.xpath('//span[@itemprop="addressRegion"]/text()').extract_first()
+            state = state.strip()
+            item['state'] = state
+        except:
+            item['state'] = ''
+        try:
+            zip_code = response.xpath('//span[@itemprop="postalCode"]/text()').extract_first()
+            zip_code = zip_code.strip()
+            item['zip_code'] = zip_code
+        except:
+            item['zip_code'] = ''
+        try:      
+            item['responseCount'] = response.xpath('//meta[@itemprop="ratingCount"]/@content').extract_first()
+        except:
+            item['responseCount'] = ''
         try:
             average_score = response.xpath('//span[@itemprop="ratingValue"]/text()').extract_first()
             average_score = average_score.strip()
