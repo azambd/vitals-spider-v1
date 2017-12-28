@@ -29,3 +29,4 @@ class VitalsSpiderItem(scrapy.Item):
 	reviewCount = scrapy.Field()
 	average_score = scrapy.Field()
 	link = scrapy.Field() 
+	source_page = scrapy.Field()

@@ -5,6 +5,7 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy import Request
 import re
 from ..items import VitalsSpiderItem
+import time
 
 
 class VitalsSpider(CrawlSpider):
@@ -47,17 +48,20 @@ class VitalsSpider(CrawlSpider):
                 follow = True),)
     
     def parse_links(self, response):
+        source_page = response.url
+        #print source_page
         rows = response.xpath('//a[@class="name"]')
         for row in rows:
             # temp_link = row.xpath('@href').extract()
             # link = response.urljoin(''.join(temp_link))
             temp_link = row.xpath('@href').extract_first()
             link = response.urljoin(temp_link)
-            yield Request(link, callback=self.parse_item)
+            yield Request(link, callback=self.parse_item, meta={'source_page': source_page})
             print link
 
     def parse_item(self, response):
-        
+        # if response.status == 400:
+        #     time.sleep(420)
         item = VitalsSpiderItem()
 
         data_in_raw = ''.join(response.xpath('//title/text()').extract_first())
@@ -113,5 +117,6 @@ class VitalsSpider(CrawlSpider):
             item['reviewCount'] = ''
 
         item['link'] = response.url
-        
+        item['source_page'] = response.meta['source_page']
+
         yield item

@@ -170,13 +170,14 @@ FIELDS_TO_EXPORT = [
                     'responseCount',
                     'reviewCount',
                     'average_score',
-                    'link'
+                    'link',
+                    'source_page'
                    ]
 
 FEED_FORMAT = 'csv'
 
 #FEED_URI = "export/vitals_docList_{0}.csv".format(timestmp) # WHERE to store the export file
-FEED_URI = "export/vitals_docList.csv".format(timestmp) # WHERE to store the export file
+FEED_URI = "export/vitals_docListA2Z.csv".format(timestmp) # WHERE to store the export file
 
 
 
